@@ -1,0 +1,52 @@
+0 - Serial1 TX (to ch375 RX)   // write   (I might need to put the sleep indicator LED on this pin and not use it when CH375 is activated)
+1 - Serial TX (USB to outside computer) // write
+2 - sdcard MISO (to SD card) SDCARD_MISO  // read
+3 - Serial RX (USB to outside computer) // read
+4 - ch375 interrupt pin (to ch375) // was EPD CS pin (to EPD screen) // read
+5 - EPD MOSI (to EPD) EPD_MOSI //write
+6 - INTERNAL FLASH MEMORY
+7 - INTERNAL FLASH MEMORY
+8 - INTERNAL FLASH MEMORY
+9 - INTERNAL FLASH MEMORY
+10 - INTERNAL FLASH MEMORY
+11 - INTERNAL FLASH MEMORY
+12 - EPD RESET pin (to EPD) EPD_RSET // write
+13 - sdcard CS (to sd card) SDCARD_CS // write
+14 - sdcard clock (to sd card) SDCARD_SCLK // write?
+15 - sdcard MOSI (to sd card) SDCARD_MOSI // write
+16 - N/A
+17 - N/A
+18 - EPD clock (to EPD) EPD_SCLK // write
+19 - EPD DC:data/command toggle (to EPD) EPD_DC // write
+20 - not exist?
+21 - Power OFF control //write
+22 - emulator serial2 TX (to emulator serial port) UART2_UTX // write
+23 - emulator serial2 RTS (to emulator serial port) UART2_RTS // write
+24 - N/A
+25 - Speaker + // write
+26 - mouse (data) // read/write
+27 - mouse (clock)  // read/write
+28 - N/A
+29 - N/A
+30 - N/A
+31 - N/A
+32 - keyboard (clock)  // read/write
+33 - keyboard (data) // read/write
+34 - emulator serial2 CTS (to emulator serial port) UART2_CTS  // read
+35 - EPD busy pin (to EPD) EPD_BUSY // read
+36 - emulator serial2 RX (to emulator serial port) UART2_URX // read
+37 - N/A
+38 - N/A
+39 - Serial1 RX (to ch375 TX) // read
+
+
+https://randomnerdtutorials.com/esp32-pinout-reference-gpios/
+https://docs.espressif.com/projects/esptool/en/latest/esp32/advanced-topics/boot-mode-selection.html
+
+
+What could I move to i2c GPIO expander?
+EPD reset pin?
+Power off pin
+
+
+

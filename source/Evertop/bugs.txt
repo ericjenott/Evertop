@@ -1,0 +1,51 @@
+- Little Engine (game engine) video mode 13 displays all scrambled.
+- Desqview crashes whole esp32
+#- Int 01 / trap flag debugging not working (debug.exe, td.exe, etc.)
+#- kq1/sq1 and similar game engine Sierra games graphics are super buggy in both CGA modes
+- many older sierra games show jumbled text in CGA modes.  Like can't find character definition tables in BIOS?
+- castle master 1 locks up in herc, cga, and ega modes at title screen
+- ZWHERC doesn't work: can't find Hercules adapter, if force to run by changing hex bytes machine code, display is all jumbled and weird
+- Planet X3 graphics all jumbled in Hercules mode.  Like ZWHERC.  Seems lines are not column aligned, being offset by some amount of pixels horizontally.
+- 80186 IMUL - not implemented!
+- 80186: INSB INSW - not implemented!
+- Need to check which 80186 opcodes/commands are not implemented
+- CIV freezes up at exit of title animation in MCGA 13h mode
+- GAMES3 20230618\castadv\castle.exe displays corrupt intro screen, then resets ESP32
+- 688 attack sub scrambled in herc mode
+- "veil" game shows a 4x4 grid of (presumably) "full" screens when in video mode 13, much like some kind of bit plane system.
+- GAMES4 disk games\20230618\wizoz\woz.exe doesn't do screen clearing properly.  Okay on 86box
+- GAMES3 disk games\20230618\9amber\amb.exe doesn't do screen clearing properly.  Haven't tested on 86box
+- GAMES3 disk games\20230618\amazont\amz.exe doesn't do screen clearing properly.  Haven't tested on 86box
+- GAMES3 disk games\20230618\batmancc\joker.exe uses EGA WRITE MODE 1 (some other games have too)
+- GAMES3 disk games\20230618\blaksanc\sanctum.exe text is not visible
+- GAMES3 disk games\20230618\bad\breathpi\breath.exe says "computer cannot do 16-color text palette alternations" and exits
+- Turbo Debugger (\dev\td\td.exe) shows garbled ascii, this is not the case in 8086tiny.exe.  Works only by using -ds option
+- GAMES1 disk \games\cgagames\dracula\dracula.exe all the graphics are terribly gumbled.  Works fine in 86box.  Works on Book 8088
+- GAMES1 disk \games\graphics\sq1\sq.com -r has jumbled text/menus.  Problem also exists in 86box.  Fine on Book 8088
+- GAMES1 disk \games\graphics\sq1\sq.com -r cannot see the walls that block the hallways.  They are totally blue, like the background.  Maybe not a bug.  Same on 8086box and Book 8088
+- GAMES1 disk \games\graphics\voodoo\vg.com, ctrl-r to switch video modes, ctrl-r again, text is jumbled.  Same on 86box.
+- Most older Sierra games such as KQ1, SQ1, and some other games don't display text in EGA mode.  Assume it's a BIOS text display problem(no EGA fonts)
+- GAMES2 disk \games\20230517\bad\scorch video mode 13h is all jumbled and slanted, like some kind of offset problem
+- DEV disk \DEV\LITLGAME\play.exe, select EGA, "ATTEMPTING TO USE UNSUPPORTED EGA WRITE MODE 1"
+- DEV disk \DEV\LITLGAME\play.exe, select EGA, graphics are all slanted and jumbled after 1st intro screen
+- C:\PROGS\TOPBENCH crashes ESP32
+- DEV disk \SOUND\BADAPPLE\FMV.EXE goes into video mode 13 (MCGA) but displays 4 small windows at top of the screen instead of 1 large window covering the screen.
+- GAMES2 disk \games\20230709\agi\pirate\lp.exe -h Hercules graphics are offset weirdly when inputting user name.  Fixed, except for where I enter my name.
+- GAMES disk \games\graphics\manhunt\sierra.exe -h Text is all garbage characters/bitmaps 
+- Need to set up font and screen layout, and detection for, 43/50 line vga text mode
+#- c:\dev\qb25\bin\qc.exe display window has way more than 25 lines, making the bottom half of the screen not visible below the bottom of the visible screen.
+- c:\dev\qb25\tutorial\learn.com freezes forever at startup.
+- GAMES1 c:\games\20230414\calixto\calixto.exe press either 1, 2, or 3 at blank start screen.  Text never shows up.  Can reference ASM source code.  Dosbox OK.
+- BASICA screws up the whole system, even after exiting BASICA, and requires a reboot to get back to normal
+- HBASIC (Hercules's BASIC) doesn't work at all.
+- QBASIC can't enter hercules graphics modes even after running MSHERC
+- Microsoft Adventure boot disk covers up the left 3-4 characters on the screen, after printing them briefly.
+- Can't boot QNX disks
+- Can't boot XENIX disks
+- Can boot MINIX1.1 boot disk, but can't "insert" ROOT disk into drive A to continue booting.
+- 256mb.img\games\prehisto\historik.exe shows jumbled/offset hercules graphics (like zwdos)
+#?- Windows 1.04 setup program ASCII menus/display is a mess, much of content is not visible.  Refreshes fine after entering emulator UI and exiting again; assume this is because of redrawScreen().  Might be new problem in version 25.  Test on older version first.  Works fine in PCEmulator_EPD_18.  That was before videoTask.  So videoTask breaks Windows 1.04 setup.exe display.  It's happening program is changing the m_CGAMemoryOffset to 0x1000 while I'm still processing bitTable and s_videoMemory data that was created whilte m_CGAMemoryOffset was 0x0000.  Maybe forcing a redrawScreen and then a display.displayFast at this time would fix the problem.  After that problem was fixed, there's a problem in that after the setup program exits, it resets the video mode to 03, but doesn't explicity reset the CGAMemoryOffset from 4096 to 0, but DOS writes to offset 0, so all dos characters are invisible.  Another BIOS at https://github.com/virtualxt/pcxtbios/blob/master/pcxtbios.asm#L3270 resets the video card to default parameters, including the CGAMemoryOffset (6845 registers 0x0c and 0x0d), but my BIOS doesn't.
+- FabUI startup menu machine option editor "Create Disk" UI disk size input field is too small, can only see two characters.
+- FabUI startup menu machine option editor "Create Disk" HD, input 201 for size and press enter, says Writing 201hdd.img, never shows progress.  Cannot click abort.  Oh! can click abort, just have to wait awhile.
+- Creating disk images only creates 0 byte files, even when the process completes, as in creating a 360K floppy
+- In Keen Dreams for Disney Sound Source, if DSS is selected for sound effects, whole system hard locks up the first time game tries to play a sound effect.  Works fine if choosing Adlib.  Before looking into this too much, make sure this isn't something wrong with this copy of the game, such as it's missing sound files for DSS or something.

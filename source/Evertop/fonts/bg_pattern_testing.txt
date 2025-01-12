@@ -1,0 +1,106 @@
+every other pixel vertical stripes WORKS:  (2 shades)
+uint16_t c = this_bg_color;
+for (int n = 0; n < 8*16; n++)
+{
+  if (n % 2 == 0)
+  {
+    c = this_bg_color;
+  }
+  else
+  {
+    c = this_fg_color;
+  }
+  display.drawPixel(charX + n % 8, charY + n / 8, c);
+}
+ 
+single pixel mesh WORKS:        (2 shades)
+uint16_t c = this_bg_color;
+for (int n = 0; n < 8*16; n++)
+{
+  if ((n / 8) % 2 == 0) // even row
+  {
+    if (n % 2 == 0)    // even column
+    {
+      c = this_bg_color;
+    }
+    else // odd column
+    {
+      c = this_fg_color;
+    }
+  }
+  else  // odd row
+  {
+    if (n % 2 == 0)    // even column
+    {
+      c = this_fg_color;
+    }
+    else // odd column
+    {
+      c = this_bg_color;
+    } 
+  }
+  display.drawPixel(charX + n % 8, charY + n / 8, c);
+}
+
+
+
+
+
+
+
+every other pixel horizontal stripes is ugly but WORKS:  (2 shades)
+uint16_t c = this_bg_color;
+for (int n = 0; n < 8*16; n++)
+{
+  if ((n / 8) % 2 == 0) // even row
+  {
+    c = this_bg_color;
+  }
+  else  // odd row
+  {
+    c = this_fg_color; 
+  }
+  display.drawPixel(charX + n % 8, charY + n / 8, c);
+}
+
+
+
+
+forward slanting lines spaced 2 pixels apart:
+to do
+
+
+
+
+every other row every other column square grid:  (4 shades)
+uint16_t c = this_bg_color;
+for (int n = 0; n < 8*16; n++)
+{
+  if ((n / 8) % 2) == 0 && (n % 2) == 0)
+  {
+    c = this_fg_color;
+  }
+  else
+  {
+    c = this_bg_color;
+  }
+  display.drawPixel(charX + n % 8, charY + n / 8, c);
+}
+
+
+
+
+every fourth row every forth column square grid: ( 16 shades)
+uint16_t c = this_bg_color;
+for (int n = 0; n < 8*16; n++)
+{
+  if (((n / 8) % 4) == 0 && (n % 4) == 0)
+  {
+    c = this_fg_color;
+  }
+  else
+  {
+    c = this_bg_color;
+  }
+  display.drawPixel(charX + n % 8, charY + n / 8, c);
+}

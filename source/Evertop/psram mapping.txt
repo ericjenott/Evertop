@@ -1,0 +1,38 @@
+
+
+
+m_viewPortMemoryPool[poolsCount] = iBoxMemory;  // use range after emulator RAM and video_task bit table in PSRAM
+uint8_t  * ucQueueStorageArea = iBoxMemory + (81 * 480) = 38880;  // iBoxMemory + number of physical pixels on screen / eight bits per pixel
+m_viewPortMemoryPool = (uint8_t * * )(iBoxMemory + (38880) + 4800); //iBoxMemory + (number of physical pixels on screen / 8, this for m_eventsQueue) + size of ucQueueStorageArea (4800)
+m_viewPort = (volatile uint8_t**)(m_viewPortMemoryPool + (FABGLIB_VIEWPORT_MEMORY_POOL_COUNT + 1)); //m_viewPortMemoryPool + (m_viewPortMemoryPool's size in bytes)  //FABGLIB_VIEWPORT_MEMORY_POOL_COUNT = 128.  m_viewPort takes up 480 * 4 = 1920 bytes
+
+
+new available memory is available at: iBoxMemory + (81 * 480) + 4800 + 128 + 1920
+that's iBoxMemory + 45728
+
+
+
+#define IBOXMEMORY iBoxMemory
+#define QUEUESTORAGE iBoxMemory + 38880
+#define VIEWPORTPOOL QUEUESTORAGE + 4800
+#define VIEWPORT VIEWPORTPOOL + FABGLIB_VIEWPORT_MEMORY_POOL_COUNT + 1 (128+1)
+#define ADLIBMEMORY VIEWPORT + 1920
+
+
+#define IBOXMEMORY iBoxMemory
++ 38880 =
+#define QUEUESTORAGE iBoxMemory + 38880
++ 4800 =
+#define VIEWPORTPOOL iBoxMemory + 43680
++ 128 + 1
+#define VIEWPORT iBoxMemory + 43809
++ 1920
+#define ADLIBMEMORY iBoxMemory + 45729
+  tl_tab = (signed int *)adlibMemory;
+  sin_tab = (unsigned int *)adlibMemory + 24576;
+  (static unsigned int sin_tab[SIN_LEN * 4]; // SIN_LEN = 1024 so this is taking 4096 * 4 bytes per int = 16384 bytes!   24576 + 16384 = 40960 bytes!)
+  (sin_tab occupies 16384 bytes)
+  
+#define VIDEOMEMORY iBoxMemory + 86689 (size = 65536)
+#define NE2000MEMORY iBoxMemory + 152225 (86689 + 65536)  (size = 49152)
+

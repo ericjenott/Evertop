@@ -1,0 +1,27 @@
+desc "DOS622 General (HD 540MB)" fd0 "swapfloppy.img" hd0 "DOS622_1.img" boot hd0 
+desc "DOS622 Development (HD 540MB)" fd0 "swapfloppy.img" hd0 "DOS622_2.img" boot hd0 
+desc "DOS622 Games (HD 540MB)" fd0 "swapfloppy.img" hd0 "DOS622_3.img" boot hd0 
+desc "DOS622 Documents (HD 540MB)" fd0 "swapfloppy.img" hd0 "DOS622_4.img" boot hd0 
+desc "DOS622 Archive/zip (HD 540MB)" fd0 "swapfloppy.img" hd0 "DOS622_5.img" boot hd0 
+desc "DOS622 6 (HD 540MB)" fd0 "swapfloppy.img" hd0 "DOS622_6.img" boot hd0 
+desc "DOS622 7 (HD 540MB)" fd0 "swapfloppy.img" hd0 "DOS622_7.img" boot hd0 
+desc "DOS622 8 (HD 540MB)" fd0 "swapfloppy.img" hd0 "DOS622_8.img" boot hd0 
+desc "DOS622 9 (HD 540MB)" fd0 "swapfloppy.img" hd0 "DOS622_9.img" boot hd0 
+desc "DOS622 10 (HD 540MB)" fd0 "swapfloppy.img" hd0 "DOS622_10.img" boot hd0 
+desc "CP/M 86 + Turbo Pascal 3 (floppy 1.44MB)" fd0 "http://www.fabglib.org/downloads/floppy_CPM86.img" 
+desc "Linux ELKS 0.4.0 (floppy 1.44MB)" fd0 "http://www.fabglib.org/downloads/floppy_ELK040.img" 
+desc "FreeDOS (HDD 8MB)" fd0 "swapfloppy.img" hd0 "http://www.fabglib.org/downloads/hd8_FREEDOS.img" boot hd0 
+desc "DOS Programs and Games (HDD 20MB)" fd0 "swapfloppy.img" hd0 "http://www.fabglib.org/downloads/hd20_DOSPROG.img" boot hd0 
+desc "ELKS6-Minix (HD 32M)" fd0 "swapfloppy.img" hd0 "hd32-minix.img" boot hd0 
+desc "ELKS6 (HD 32M)" fd0 "swapfloppy.img" hd0 "hd32-fat.img" boot hd0 
+desc "DOS Programming Tools (HDD 20MB)" fd0 "swapfloppy.img" hd0 "http://www.fabglib.org/downloads/hd20_DOSDEV.img" boot hd0 
+desc "Windows 3.0 (HDD 20MB)" fd0 "swapfloppy.img" hd0 "http://www.fabglib.org/downloads/hd20_WINHERC.img" boot hd0 
+desc "GEM 3.13 (HDD 8MB)" fd0 "swapfloppy.img" hd0 "http://www.fabglib.org/downloads/hd8_GEM31.img" boot hd0 
+desc "GEOS 2.0 (HDD 20MB)" fd0 "swapfloppy.img" hd0 "http://www.fabglib.org/downloads/hd20_GEOS20.img" boot hd0 
+desc "My GEM HD (HDD 8MB)" fd0 "swapfloppy.img" hd0 "MyGEM_hd.iso" boot hd0 
+desc "DOS development (HD 32M)" fd0 "swapfloppy.img" hd0 "C_dosdev.img" boot hd0 
+desc "SvarDOS (HDD (hDD 10MB)" fd0 "swapfloppy.img" hd0 "http://www.fabglib.org/downloads/hd10_SVARDOS.img" boot hd0 
+desc "Boot swap floppy + General HD (floppy 2.88MB)" fd0 "swapfloppy.img" hd0 "DOS622_1.img" boot fd0 
+desc "MS-DOS 3.31 (floppy 1.44MB)" fd0 "http://www.fabglib.org/downloads/floppy_MSDOS331.img" 
+desc "FreeDOS (HDD 8MB)" fd0 "swapfloppy.img" hd0 "http://www.fabglib.org/downloads/hd8_FREEDOS.img" boot hd0 
+

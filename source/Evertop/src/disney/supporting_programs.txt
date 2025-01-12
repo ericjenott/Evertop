@@ -1,0 +1,12 @@
+Working:
+  Arachnid
+  Treehouse
+  KQ6
+  Roger Rabit Hare Raising Adventure
+  Mickey Mouse's ABCs
+  Micky Mouse Reader "Follow the Reader"
+  Prince of Persia 1.3 (hd20_MyChoices.img)
+  Wolfenstein 3D
+
+
+Not working:

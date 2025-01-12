@@ -1,0 +1,6 @@
+i8042 keyboard controller
+i8086 cpu
+MC146818 real time clock
+PC8250 UART
+PC8259 programmable interrupt controller
+PIT8253 programmable interval timer

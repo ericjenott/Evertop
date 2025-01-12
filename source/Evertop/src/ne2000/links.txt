@@ -1,0 +1,5 @@
+esp_eth_transmit()
+esp_eth_tx()
+https://github.com/espressif/esp-idf/blob/master/components/esp_eth/include/esp_eth_mac.h
+eth2ap example (connect wifi devices like phones to wired ethernet)  https://github.com/espressif/esp-idf/tree/v4.3.2/examples/ethernet/eth2ap
+eth2wifi example (connect wired ethernet devices like desktop computers to wifi) https://github.com/espressif/esp-iot-solution/tree/release/v1.0/examples/eth2wifi
