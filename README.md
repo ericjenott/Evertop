@@ -66,22 +66,19 @@ Note: if some videos won't play in Firefox, please try using Chrome.<br>
 
 <br><br>
 ### QBASIC "hello world"
-
-
+https://github.com/user-attachments/assets/7936a16b-e707-4298-a39a-2964b3c653aa
 
 <br><br>
 ### Space Quest 3 with Adlib sound and music
-
-
+https://github.com/user-attachments/assets/2b20a7d1-0362-4848-8348-c91b98728131
 
 <br><br>
 ### Minesweeper on Windows
-https://github.com/user-attachments/assets/b7f956ff-74b3-41ea-ae83-52795d74841c
+https://github.com/user-attachments/assets/540fa992-51f2-4d51-8aa3-3e9dba048924
 
 <br><br>
 ### Adlib Jukebox
-
-
+https://github.com/user-attachments/assets/f23e2479-c99c-4e64-bbf9-22223a75d402
 
 <br><br>
 ### Using a USB flash drive
@@ -89,18 +86,15 @@ https://github.com/user-attachments/assets/77839a7c-f4f0-4fe8-b198-c7e36b9bc334
 
 <br><br>
 ### Networking: Ping and FTP
-
-
+https://github.com/user-attachments/assets/5f67eb18-9b9b-4c4f-b5dd-cf022fadc6d1
 
 <br><br>
 ### Networking: Web browsing
-
-
+https://github.com/user-attachments/assets/8a99601b-c7f9-49f3-8a99-dfec2aed2d76
 
 <br><br>
 ### Hibernating and resuming
-
-
+https://github.com/user-attachments/assets/c9758c15-9f8d-4058-a61f-c34481873b1e
 
 <br><br>
 ### Solar panel detaching and re-attaching
@@ -109,11 +103,11 @@ https://github.com/user-attachments/assets/77839a7c-f4f0-4fe8-b198-c7e36b9bc334
 
 <br><br>
 ### System startup and color inversion
-https://github.com/user-attachments/assets/274726d5-35ea-4eb5-89cf-f3aabaa0a709
+https://github.com/user-attachments/assets/8807fc27-6829-4491-978f-2921a8d432fe
 
 <br><br>
 ### King's Quest 1
-https://github.com/user-attachments/assets/13fd18fd-db5c-4421-96a0-fe79615b92be
+https://github.com/user-attachments/assets/46d44474-fa79-49ea-9949-d85c53864d76
 
 <br><br>
 ### QEdit editing autoexec.bat
@@ -121,12 +115,11 @@ https://github.com/user-attachments/assets/c6fe3bd9-1a23-458f-8ec3-6ddc4d6cbe65
 
 <br><br>
 ### Wolfenstein 3D
-https://github.com/user-attachments/assets/bc20bdcb-f14d-412a-a6b3-60eefe2f2ee0
+https://github.com/user-attachments/assets/e295904c-3d49-4982-8d65-b21779e48726
 
 <br><br>
 ### Doom
-
-
+https://github.com/user-attachments/assets/fc9ec4e4-5f15-47cf-980f-c31522a4abcc
 
 <br><br>
 ### CP/M-86 with Turbo Pascal
@@ -138,24 +131,27 @@ https://github.com/user-attachments/assets/255e8f95-449a-4774-9168-92bb78608fd5
 
 <br><br>
 ### Planet X3
-https://github.com/user-attachments/assets/5619d1c5-ceab-4a71-88d1-a452a3150254
+
 
 <br><br>
 ### ZZT version of King's Quest
-https://github.com/user-attachments/assets/bbe96d6b-c1de-4b15-b2b7-966082788475
+https://github.com/user-attachments/assets/27d068f2-91de-4887-bba5-bcdd4b63fbf2
+
+
 
 <br><br>
 ### Scott Adams's Pirate Adventure
-
-
+https://github.com/user-attachments/assets/f46fa540-cb63-4454-81f6-fe7e84447212
 
 <br><br>
 ### SimCity
-https://github.com/user-attachments/assets/fcb67050-38f1-4a1c-a01d-8c2a09fdbfc0
+https://github.com/user-attachments/assets/a8b7a0c0-d77a-4ccb-a051-0ceed19d8957
+
+
 
 <br><br>
 ### Zork
-https://github.com/user-attachments/assets/5a589181-e170-4a2e-939b-188634d5aca1
+
 
 <br><br>
 ### Minix with Colossal Cave Adventure
