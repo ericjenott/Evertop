@@ -66,12 +66,12 @@ Note: if some videos won't play in Firefox, please try using Chrome.<br>
 
 <br><br>
 ### QBASIC "hello world"
-[qbasic.webm](https://github.com/user-attachments/assets/225efe0d-2b90-4db3-8a54-ab3ef893bf0d)
+
 
 
 <br><br>
 ### Space Quest 3 with Adlib sound and music
-[sq3.webm](https://github.com/user-attachments/assets/c5009e01-66ea-4530-b80a-ca6bba2cad84)
+
 
 
 <br><br>
@@ -80,7 +80,7 @@ https://github.com/user-attachments/assets/b7f956ff-74b3-41ea-ae83-52795d74841c
 
 <br><br>
 ### Adlib Jukebox
-[adlib_jukebox.webm](https://github.com/user-attachments/assets/77afcefa-28e7-49af-b235-64be55e5e011)
+
 
 
 <br><br>
@@ -89,22 +89,22 @@ https://github.com/user-attachments/assets/77839a7c-f4f0-4fe8-b198-c7e36b9bc334
 
 <br><br>
 ### Networking: Ping and FTP
-[ping&ftp.webm](https://github.com/user-attachments/assets/1dece6fd-4c53-47e5-9447-b6fbbb594350)
+
 
 
 <br><br>
 ### Networking: Web browsing
-[ping&ftp.webm](https://github.com/user-attachments/assets/5953b3ac-76ed-48e4-ad6b-3391908de6b6)
+
 
 
 <br><br>
 ### Hibernating and resuming
-[hibernate&restore.webm](https://github.com/user-attachments/assets/0994e4d7-eb75-49b8-af09-cb980382228f)
+
 
 
 <br><br>
 ### Solar panel detaching and re-attaching
-[solar_panel_setup.webm](https://github.com/user-attachments/assets/64aee97a-6224-4b30-9b58-15e1a4472caa)
+
 
 
 <br><br>
@@ -125,7 +125,7 @@ https://github.com/user-attachments/assets/bc20bdcb-f14d-412a-a6b3-60eefe2f2ee0
 
 <br><br>
 ### Doom
-[doom.webm](https://github.com/user-attachments/assets/2f68af70-148d-4c9d-953a-2bd9d20c162e)
+
 
 
 <br><br>
@@ -146,7 +146,7 @@ https://github.com/user-attachments/assets/bbe96d6b-c1de-4b15-b2b7-966082788475
 
 <br><br>
 ### Scott Adams's Pirate Adventure
-[pirate_adventure.webm](https://github.com/user-attachments/assets/65f91223-6548-49b4-8285-87ed1f7a8a00)
+
 
 
 <br><br>
