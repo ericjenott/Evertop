@@ -29,6 +29,7 @@ Runs almost all IBM PC/XT compatible DOS software from the 1980s and early 90s.
 ## Sample Videos
 
 ### System startup and color inversion
-[![System startup](https://github.com/ericjenott/Evertop/blob/main/videos/startup&inversion.jpg?raw=true)](https://github.com/ericjenott/Evertop/raw/refs/heads/main/videos/startup&inversion.mp4)
+<video src="https://github.com/ericjenott/Evertop/raw/refs/heads/main/videos/startup&inversion.mp4" width=180/>
+
 
 
