@@ -65,90 +65,176 @@ Note: if some videos won't play in Firefox, please try using Chrome.<br>
 
 <br><br>
 ### QBASIC "hello world"
+<div><img width=60 src="https://github.com/user-attachments/assets/5fa22022-bf06-4c9d-8cf1-ed0c71fa55c8" /></div>
+
 https://github.com/user-attachments/assets/7936a16b-e707-4298-a39a-2964b3c653aa
+
+
 
 <br><br>
 ### Space Quest 3 with Adlib sound and music
+<div><img width=60 src="https://github.com/user-attachments/assets/82e9c201-96ba-4a23-9576-b5ada00116f7" /></div>
+
 https://github.com/user-attachments/assets/2b20a7d1-0362-4848-8348-c91b98728131
+
+
 
 <br><br>
 ### Minesweeper on Windows
+<div><img width=60 src="https://github.com/user-attachments/assets/f1fc2659-ac04-4c34-980c-88f63df48484" /></div>
+
 https://github.com/user-attachments/assets/540fa992-51f2-4d51-8aa3-3e9dba048924
+
+
 
 <br><br>
 ### Adlib Jukebox
+<div><img width=60 src="https://github.com/user-attachments/assets/c8a92e9c-eab9-4acf-978d-760e890d9fa2" /></div>
+
 https://github.com/user-attachments/assets/f23e2479-c99c-4e64-bbf9-22223a75d402
+
+
 
 <br><br>
 ### Using a USB flash drive
+<div><img width=60 src="https://github.com/user-attachments/assets/651762d9-426b-49ad-8cb4-2cdc7b2aecb9" /></div>
+
 https://github.com/user-attachments/assets/77839a7c-f4f0-4fe8-b198-c7e36b9bc334
+
+
 
 <br><br>
 ### Networking: Ping and FTP
+<div><img width=60 src="https://github.com/user-attachments/assets/601dd03c-0d77-4ec1-8307-b76d72c7923d" /></div>
+
 https://github.com/user-attachments/assets/5f67eb18-9b9b-4c4f-b5dd-cf022fadc6d1
+
+
 
 <br><br>
 ### Networking: Web browsing
+<div><img width=60 src="https://github.com/user-attachments/assets/114475dc-eaad-4e1d-a4ab-3d190aa230e5" /></div>
+
 https://github.com/user-attachments/assets/8a99601b-c7f9-49f3-8a99-dfec2aed2d76
+
+
 
 <br><br>
 ### Hibernating and resuming
+<div><img width=60 src="https://github.com/user-attachments/assets/6e18e1be-cc90-42f3-a545-62e2a8999ca3" /></div>
+
 https://github.com/user-attachments/assets/c9758c15-9f8d-4058-a61f-c34481873b1e
+
+
 
 <br><br>
 ### Solar panel detaching and re-attaching
+<div><img width=60 src="https://github.com/user-attachments/assets/5d897835-51f1-47b4-bcbb-87023bcb50ec" /></div>
+
 https://github.com/user-attachments/assets/3ee362a7-36d7-4355-b31c-2d30c2af94da
+
+
 
 <br><br>
 ### System startup and color inversion
+<div><img width=60 src="https://github.com/user-attachments/assets/fd269914-d7c6-41f8-ba09-b50392944180" /></div>
+
 https://github.com/user-attachments/assets/8807fc27-6829-4491-978f-2921a8d432fe
+
+
 
 <br><br>
 ### King's Quest 1
+<div><img width=60 src="https://github.com/user-attachments/assets/12d81b80-13bb-4f15-9139-1087d0f94735" /></div>
+
 https://github.com/user-attachments/assets/46d44474-fa79-49ea-9949-d85c53864d76
+
+
 
 <br><br>
 ### QEdit editing autoexec.bat
+<div><img width=60 src="https://github.com/user-attachments/assets/acd940e5-2030-4415-ab2c-4ad2efa77ddb" /></div>
+
 https://github.com/user-attachments/assets/c6fe3bd9-1a23-458f-8ec3-6ddc4d6cbe65
+
+
 
 <br><br>
 ### Wolfenstein 3D
+<div><img width=60 src="https://github.com/user-attachments/assets/546131fb-ca1b-4ad8-acc7-720df0038656" /></div>
+
 https://github.com/user-attachments/assets/e295904c-3d49-4982-8d65-b21779e48726
+
+
 
 <br><br>
 ### Doom
+<div><img width=60 src="https://github.com/user-attachments/assets/f79e5cf9-9837-47f0-9706-b3a232558d7a" /></div>
+
 https://github.com/user-attachments/assets/fc9ec4e4-5f15-47cf-980f-c31522a4abcc
+
+
 
 <br><br>
 ### CP/M-86 with Turbo Pascal
+<div><img width=60 src="https://github.com/user-attachments/assets/d71eaacb-92f9-4bc3-baec-dd1b68bb983a" /></div>
+
 https://github.com/user-attachments/assets/1cd02330-907e-408f-8e0b-55a8b3c6f605
+
+
 
 <br><br>
 ### When and why to use "Color Emulation"
+<div><img width=60 src="https://github.com/user-attachments/assets/83c75778-bd1e-41cc-9cf8-8109422c2773" /></div>
+
 https://github.com/user-attachments/assets/255e8f95-449a-4774-9168-92bb78608fd5
+
+
 
 <br><br>
 ### Planet X3 in Hercules graphics and VGA modes
+<div><img width=60 src="https://github.com/user-attachments/assets/9b68da63-0ea2-4d47-b7fd-3e72d05a9275" /></div>
+
 https://github.com/user-attachments/assets/d3770d11-64d8-491e-b530-e117e26e44bb
+
+
 
 <br><br>
 ### ZZT version of King's Quest
+<div><img width=60 src="https://github.com/user-attachments/assets/9dd0a693-d8e3-4094-badd-ff1a4859e9ca" /></div>
+
 https://github.com/user-attachments/assets/27d068f2-91de-4887-bba5-bcdd4b63fbf2
+
+
 
 <br><br>
 ### Scott Adams's Pirate Adventure
+<div><img width=60 src="https://github.com/user-attachments/assets/cdee7b09-22fd-414b-a960-4c7b1f6e383b" /></div>
+
 https://github.com/user-attachments/assets/f46fa540-cb63-4454-81f6-fe7e84447212
+
+
 
 <br><br>
 ### SimCity
+<div><img width=60 src="https://github.com/user-attachments/assets/2167c72f-0b0a-4a8b-97ed-9fb0a39fde6e" /></div>
+
 https://github.com/user-attachments/assets/a8b7a0c0-d77a-4ccb-a051-0ceed19d8957
+
+
 
 <br><br>
 ### Zork
+<div><img width=60 src="https://github.com/user-attachments/assets/1d12efe1-577a-438d-a59a-0259012a46fe" /></div>
+
 https://github.com/user-attachments/assets/8c195b5b-e7e3-49f2-b16d-81d6f7fbcded
+
+
 
 <br><br>
 ### Minix with Colossal Cave Adventure
+<div><img width=60 src="https://github.com/user-attachments/assets/4f26ca64-4a00-4bcc-9298-0007501bbc29" /></div>
+
 https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
 
 
