@@ -98,8 +98,7 @@ https://github.com/user-attachments/assets/c9758c15-9f8d-4058-a61f-c34481873b1e
 
 <br><br>
 ### Solar panel detaching and re-attaching
-
-
+https://github.com/user-attachments/assets/3ee362a7-36d7-4355-b31c-2d30c2af94da
 
 <br><br>
 ### System startup and color inversion
@@ -130,14 +129,12 @@ https://github.com/user-attachments/assets/1cd02330-907e-408f-8e0b-55a8b3c6f605
 https://github.com/user-attachments/assets/255e8f95-449a-4774-9168-92bb78608fd5
 
 <br><br>
-### Planet X3
-
+### Planet X3 in Hercules graphics and VGA modes
+https://github.com/user-attachments/assets/d3770d11-64d8-491e-b530-e117e26e44bb
 
 <br><br>
 ### ZZT version of King's Quest
 https://github.com/user-attachments/assets/27d068f2-91de-4887-bba5-bcdd4b63fbf2
-
-
 
 <br><br>
 ### Scott Adams's Pirate Adventure
@@ -147,15 +144,15 @@ https://github.com/user-attachments/assets/f46fa540-cb63-4454-81f6-fe7e84447212
 ### SimCity
 https://github.com/user-attachments/assets/a8b7a0c0-d77a-4ccb-a051-0ceed19d8957
 
-
-
 <br><br>
 ### Zork
-
+https://github.com/user-attachments/assets/8c195b5b-e7e3-49f2-b16d-81d6f7fbcded
 
 <br><br>
 ### Minix with Colossal Cave Adventure
-https://github.com/user-attachments/assets/3e4fb967-9d5a-4690-983b-c53c2af49256
+https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
+
+
 
 
 
