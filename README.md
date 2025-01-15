@@ -41,6 +41,7 @@ Runs almost all IBM PC/XT compatible DOS software from the 1980s and early 90s.
 <br><br>
 
 ## Sample Videos
+Note: if some videos won't play in Firefox, please try using Chrome.
 
 <br><br>
 ### QBASIC "hello world"
