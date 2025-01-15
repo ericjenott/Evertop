@@ -1,7 +1,9 @@
 # Evertop: a solar powered portable PC with hundreds of hours of battery life
 
 <div align="center">
+  <img width = "25%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/testdrive2-1.JPG?raw=true">
   <img width = "25%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/standing_angle1.JPG?raw=true">
+  <img width = "25%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_stand1.JPG?raw=true">
   <img width = "25%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/keyboard_detached2.JPG?raw=true">
   <img width = "25%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/opendevice3.JPG?raw=true">
 </div>
