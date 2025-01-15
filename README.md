@@ -1,5 +1,13 @@
 # Evertop: a solar powered portable PC with hundreds of hours of battery life
 
+<div align="center">
+  <img width = "25%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/standing_angle1.JPG?raw=true">
+  <img width = "25%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/keyboard_detached2.JPG?raw=true">
+  <img width = "25%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/opendevice3.JPG?raw=true">
+</div>
+
+## Overview
+
 Evertop is an e-ink portable PC that emulates an IBM XT with an 80186 processor and 1MB RAM. It can run DOS, Minix, and some other old 1980s operating systems.  It also runs Windows up to version 3.0.
 
 It features a built in keyboard, external PS/2 keyboard and mouse ports, full CGA, Hercules, and MCGA graphics support, partial EGA and VGA support, PC speaker, Adlib, Covox, and Disney Sound Source audio output, built in speaker and headphone jack with volume adjustment wheel, one DB9 RS232 serial port, one TTL serial port, dual keyboard and mouse PS/2 ports, USB flash drive port for convenient file transfer, an RJ45 802.3 ethernet port, wifi, and LoRA radio (I wrote a LoRA realtime chat client in QBasic in about 15 minutes).  Bluetooth hardware is present but I have not yet implemented any features that use it, though I plan to add support for BT keyboard and mouse, and maybe serial over BT, IP over BT, audio over BT, and BT file transfer.  The keyboard can be easily detached on a short tether to make it convenient to prop up the device at an angle while placing the keyboard on a flat surface.  Or you can just plug in you own to the PS/2 port, as sometimes it's nice to be able to use a full sized keyboard, though the one I built into this device is big enough for normal typing.
