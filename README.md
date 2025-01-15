@@ -5,7 +5,7 @@
   <img width = "16%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/standing_angle1.JPG">
 </div>
 <div align="center">
-  <img width = "12%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_stand1.JPG">
+  <img width = "12.8%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_stand1.JPG">
   <img width = "14%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/keyboard_detached2.JPG">
   <img width = "20%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/opendevice3.JPG">
 </div>
@@ -45,15 +45,15 @@ Runs almost all IBM PC/XT compatible DOS software from the 1980s and early 90s.
 <br>
 
 ## New minimal version: "Evertop Min" 
-For this version, I removed the built-in keyboard, variable voltage charging, solar panel, RJ45 ethernet, DB9 serial port, LoRA radio and half the battery capacity to reduce weight and costs.  It still has the e-ink display, dual keyboard/mouse PS/2 ports, built in speaker, headphone jack, volume control wheel, USB flash drive port, wifi networking, bluetooth, TTL serial port, and sd card slot.  Only charges via micro USB port.  Add your own PS/2 keyboard and an external solar panel and you're still good to go for basic long lasting off grid computing.
+For this version, I removed the built-in keyboard, variable voltage charging, solar panel, RJ45 ethernet, DB9 serial port, LoRA radio and half the battery capacity to reduce weight, material, and costs of parts and assembly.  It has the same e-ink display, dual keyboard/mouse PS/2 ports, built in speaker, headphone jack, volume control wheel, USB flash drive port, wifi networking, bluetooth, TTL serial port, and sd card slot.  Only charges via micro USB port.  Add your own PS/2 keyboard and an external solar panel and you're still good to go for basic long lasting off grid computing without the weight, bulk, and expensive of all those extra bells and whistles.
 
 <div align="center">
-  <img width = "12%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/smallkbd2.JPG">
+  <img width = "9.5%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/smallkbd2.JPG">
   <img width = "12%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/connected_devices4.JPG">
-  <img width = "12%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/excel.JPG">
-  <img width = "14%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/rightside2.JPG">
-  <img width = "14%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/leftside2.JPG">
-  <img width = "20%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/with_max2.jpg">
+  <img width = "13.2%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/excel.JPG">
+  <img width = "19.8%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/rightside2.JPG">
+  <img width = "20.3%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/leftside2.JPG">
+  <img width = "10%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/with_max2.jpg">
 </div>
 
 <br><br>
