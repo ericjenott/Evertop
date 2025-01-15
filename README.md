@@ -1,7 +1,7 @@
 # Evertop: an ultra lower power, ultra long battery life solar PC
 
 <div align="center">
-  <img width = "23%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/testdrive2-1.JPG?raw=true">
+  <a href="https://github.com/ericjenott/Evertop/blob/main/images/games/testdrive2-1.JPG?raw=true" target="_blank" rel="noopener noreferrer><img width = "23%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/testdrive2-1.JPG?raw=true"></a>
   <img width = "16%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/standing_angle1.JPG?raw=true">
 </div>
 <div align="center">
@@ -25,7 +25,7 @@ In power saving mode it can run between 200 hours on the low side and 500 hours 
 ### Technology
 Under the hood it's powered by an Espressif ESP32 microcontroller.  I started out using Fabrizio Di Vittorio's amazing and excellent FabGL's PCEmulator demo and having been adding, cutting, changing, fixing, and generally tampering for two years to bring this to its current state.
 
-### Software compatibility
+### Compatibility
 Runs almost all IBM PC/XT compatible DOS software from the 1980s and early 90s.
 
 
@@ -34,13 +34,25 @@ Runs almost all IBM PC/XT compatible DOS software from the 1980s and early 90s.
 ### System startup and color inversion
 https://github.com/user-attachments/assets/274726d5-35ea-4eb5-89cf-f3aabaa0a709
 
-
+<br><br>
 ### King's Quest 1
 https://github.com/user-attachments/assets/13fd18fd-db5c-4421-96a0-fe79615b92be
 
-
+<br><br>
 ### QEdit
 https://github.com/user-attachments/assets/c6fe3bd9-1a23-458f-8ec3-6ddc4d6cbe65
+
+<br><br>
+### CP/M with Turbo Pascal
+https://github.com/user-attachments/assets/1cd02330-907e-408f-8e0b-55a8b3c6f605
+
+<br><br>
+### When and why you need to use the "Color Emulation" feature
+https://github.com/user-attachments/assets/255e8f95-449a-4774-9168-92bb78608fd5
+
+<br><br>
+### Using a USB flash drive
+https://github.com/user-attachments/assets/77839a7c-f4f0-4fe8-b198-c7e36b9bc334
 
 
 
