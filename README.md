@@ -1,13 +1,13 @@
 # Evertop: an ultra lower power, ultra long battery life solar PC
 
 <div align="center">
-  <img width = "23%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/testdrive2-1.JPG">
-  <img width = "16%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/standing_angle1.JPG">
+  <img width = "34.5%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/testdrive2-1.JPG">
+  <img width = "24%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/standing_angle1.JPG">
 </div>
 <div align="center">
-  <img width = "12.8%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_stand1.JPG">
-  <img width = "14%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/keyboard_detached2.JPG">
-  <img width = "20%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/opendevice3.JPG">
+  <img width = "19.2%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_stand1.JPG">
+  <img width = "21%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/keyboard_detached2.JPG">
+  <img width = "30%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/opendevice3.JPG">
 </div>
 
 <br>
