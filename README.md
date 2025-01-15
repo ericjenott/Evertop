@@ -1,13 +1,13 @@
 # Evertop: an ultra lower power, ultra long battery life solar PC
 
 <div align="center">
-  <img width = "23%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/testdrive2-1.JPG?raw=true">
-  <img width = "16%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/standing_angle1.JPG?raw=true">
+  <img width = "23%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/testdrive2-1.JPG">
+  <img width = "16%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/standing_angle1.JPG">
 </div>
 <div align="center">
-  <img width = "12%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_stand1.JPG?raw=true">
-  <img width = "14%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/keyboard_detached2.JPG?raw=true">
-  <img width = "20%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/opendevice3.JPG?raw=true">
+  <img width = "12%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_stand1.JPG">
+  <img width = "14%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/keyboard_detached2.JPG">
+  <img width = "20%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/opendevice3.JPG">
 </div>
 
 ## Overview
@@ -39,7 +39,7 @@ https://github.com/user-attachments/assets/274726d5-35ea-4eb5-89cf-f3aabaa0a709
 https://github.com/user-attachments/assets/13fd18fd-db5c-4421-96a0-fe79615b92be
 
 <br><br>
-### QEdit
+### QEdit editing autoexec.bat
 https://github.com/user-attachments/assets/c6fe3bd9-1a23-458f-8ec3-6ddc4d6cbe65
 
 <br><br>
@@ -53,6 +53,85 @@ https://github.com/user-attachments/assets/255e8f95-449a-4774-9168-92bb78608fd5
 <br><br>
 ### Using a USB flash drive
 https://github.com/user-attachments/assets/77839a7c-f4f0-4fe8-b198-c7e36b9bc334
+
+<br><br>
+### Planet X3
+https://github.com/user-attachments/assets/f1afe4fd-e349-4572-9496-aea447b92e19
+
+
+<br><br>
+### ZZT version of King's Quest
+https://github.com/user-attachments/assets/bbe96d6b-c1de-4b15-b2b7-966082788475
+
+
+<br><br>
+### QBASIC "hello world"
+https://github.com/user-attachments/assets/962b7809-7b33-4a57-b45f-e7e4db120c3c
+
+
+<br><br>
+### Hibernating and resuming
+https://github.com/user-attachments/assets/42f9476a-e2c7-45fd-87c0-54b6ee2dad6f
+
+
+<br><br>
+### Solar panel detaching and re-attaching
+https://github.com/user-attachments/assets/7f31b225-3533-4bbe-8254-06b1acdfaacd
+
+
+<br><br>
+### Networking: Ping and FTP
+https://github.com/user-attachments/assets/28a4ab93-af6e-4697-aeed-5b1789050d8f
+
+
+<br><br>
+### Doom
+https://github.com/user-attachments/assets/dd6682bf-0aea-4d8d-ae58-24b684e38f66
+
+
+<br><br>
+### Networking: Web browsing
+https://github.com/user-attachments/assets/ad9f7be2-3504-4a04-8956-48e816ac348d
+
+
+<br><br>
+### Space Quest 3
+https://github.com/user-attachments/assets/b22c7ab6-d83d-4709-a84d-256b57cffdf3
+
+
+<br><br>
+### Adlib Jukebox
+https://github.com/user-attachments/assets/2d5089bb-cebf-43e6-ae74-68db89a0d8d3
+
+
+<br><br>
+### Scott Adams's Pirate Adventure
+https://github.com/user-attachments/assets/ce9783dd-4c6f-424a-856a-04abb533415a
+
+
+<br><br>
+### SimCity
+https://github.com/user-attachments/assets/fcb67050-38f1-4a1c-a01d-8c2a09fdbfc0
+
+
+<br><br>
+### Zork
+https://github.com/user-attachments/assets/5a589181-e170-4a2e-939b-188634d5aca1
+
+
+<br><br>
+### Wolfenstein 3D
+https://github.com/user-attachments/assets/bc20bdcb-f14d-412a-a6b3-60eefe2f2ee0
+
+
+<br><br>
+### Minesweeper on Windows
+https://github.com/user-attachments/assets/b7f956ff-74b3-41ea-ae83-52795d74841c
+
+
+<br><br>
+### Minix with Colossal Cave Adventure
+https://github.com/user-attachments/assets/3e4fb967-9d5a-4690-983b-c53c2af49256
 
 
 
