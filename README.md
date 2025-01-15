@@ -48,19 +48,21 @@ Runs almost all IBM PC/XT compatible DOS software from the 1980s and early 90s.
 For this version, I removed the built-in keyboard, variable voltage charging, solar panel, RJ45 ethernet, DB9 serial port, LoRA radio and half the battery capacity to reduce weight, material, and costs of parts and assembly.  It has the same e-ink display, dual keyboard/mouse PS/2 ports, built in speaker, headphone jack, volume control wheel, USB flash drive port, wifi networking, bluetooth, TTL serial port, and sd card slot.  Only charges via micro USB port.  Add your own PS/2 keyboard and an external solar panel and you're still good to go for basic long lasting off grid computing without the weight, bulk, and expensive of all those extra bells and whistles.
 
 <div align="center">
-  <img width = "9.5%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/smallkbd2.JPG">
-  <img width = "12%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/connected_devices4.JPG">
-  <img width = "13.2%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/excel.JPG">
-  <img width = "19.8%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/rightside2.JPG">
-  <img width = "20.3%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/leftside2.JPG">
-  <img width = "10%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/with_max2.jpg">
+  <img width = "19%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/smallkbd2.JPG">
+  <img width = "24%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/connected_devices4.JPG">
+  <img width = "26.4%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/excel.JPG">
+</div>
+<div align="center">
+  <img width = "38.5%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/rightside2.JPG">
+  <img width = "39.9%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/leftside2.JPG">
+  <img width = "19.7%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/with_max2.jpg">
 </div>
 
 <br><br>
 
 ## Sample Videos
-Note: if some videos won't play in Firefox, please try using Chrome.
-OR watch the hi-res full versions on my Youtube playlist <a href="https://youtube.com/playlist?list=PLS5HRMZsVMLZf-PbHvJDVLgTP-tTvth55&si=df2rlJ7pIH9pm1Kg">here</a>.
+Note: if some videos won't play in Firefox, please try using Chrome.<br>
+<b>Or</b> watch the hi-res full length versions on my Youtube playlist <a href="https://youtube.com/playlist?list=PLS5HRMZsVMLZf-PbHvJDVLgTP-tTvth55&si=df2rlJ7pIH9pm1Kg">here</a>.
 
 <br><br>
 ### QBASIC "hello world"
