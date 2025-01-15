@@ -1,7 +1,7 @@
 # Evertop: an ultra lower power, ultra long battery life solar PC
 
 <div align="center">
-  <a href="https://github.com/ericjenott/Evertop/blob/main/images/games/testdrive2-1.JPG?raw=true" target="_blank" rel="noopener noreferrer><img width = "23%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/testdrive2-1.JPG?raw=true"></a>
+  <a href="https://github.com/ericjenott/Evertop/blob/main/images/games/testdrive2-1.JPG?raw=true" target="_blank" rel="noopener noreferrer"><img width = "23%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/testdrive2-1.JPG?raw=true"></a>
   <img width = "16%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/standing_angle1.JPG?raw=true">
 </div>
 <div align="center">
