@@ -547,21 +547,15 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
 </div>
 <br>
 
-#### Rear side showing solar panel hinge
-<div>
-  <img width = "100%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/rearedge_back.JPG">
-</div>
-<br>
-
 #### Standing up
 <div>
   <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/standing_angle1.JPG">
-  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_stand1.JPG">
+  <img width = "30%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_stand1.JPG">
   <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/standing_rightside2.JPG">
 </div>
 <div>
-  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/standing_leftside1.JPG">
-  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/standing_rightside1.JPG">
+  <img width = "32%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/standing_leftside1.JPG">
+  <img width = "32%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/standing_rightside1.JPG">
   <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/standing_rightside3.JPG">
 </div>
 <br>
@@ -583,7 +577,7 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
 #### Variable voltage charging: 3V, 9V, 13V, 19V
 <div>
   <img width = "24%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/3v_charging1.JPG">
-  <img width = "24%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/9v_charging1.JPG">
+  <img width = "24%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/9V_charging1.JPG">
   <img width = "24%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/13v_charging1.JPG">
   <img width = "24%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/19v_charging1.JPG">
 </div>  
@@ -591,32 +585,23 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
 
 #### Keyboard removed and keyboard cord storage
 <div>
-  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/keyboard_detached1.JPG">
-  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/keyboard_detached2.JPG">
+  <img width = "30%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/keyboard_detached1.JPG">
+  <img width = "31.5%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/keyboard_detached2.JPG">
   <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/keyboard_detached3.JPG">
 </div>  
 <div>
-  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/keyboard_cord_storage1.JPG">
-  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/keyboard_cord_storage2.JPG">
+  <img width = "63%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/keyboard_cord_storage1.JPG">
+  <img width = "36%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/keyboard_cord_storage2.JPG">
 </div>  
 <br>
 
 #### Hacker friendly motherboard access
 <div>
-  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/cpucover.JPG">
-  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/cpucover_opened.JPG">
+  <img width = "43.5%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/cpucover.JPG">
+  <img width = "55.5%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/cpucover_opened.JPG">
 </div>  
 <div>
   <img width = "70%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/cpu.JPG">
-</div>  
-<br>
-
-#### Variable voltage charging: 3V, 9V, 13V, 19V
-<div>
-  <img width = "24%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/3v_charging1.JPG">
-  <img width = "24%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/9v_charging1.JPG">
-  <img width = "24%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/13v_charging1.JPG">
-  <img width = "24%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/19v_charging1.JPG">
 </div>  
 <br>
 
@@ -629,15 +614,17 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
 
 #### Solar panel and removal
 <div>
-  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_panel.JPG">
-  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_cord1.JPG">
+  <img width = "23%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_panel.JPG">
+  <img width = "27%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_cord1.JPG">
   <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_cord2.JPG">
 </div>  
 <div>
-  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_plug_attached.JPG">
+  <img width = "14.5%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_plug_attached.JPG">
   <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_plug_detached.JPG">
-  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_panel_detached1.JPG">
+
+  <img width = "30%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_panel_detached1.JPG">
 </div> 
+  
 <br>
 
 
