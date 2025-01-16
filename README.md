@@ -1,4 +1,4 @@
-# Evertop: an ultra lower power, ultra long battery life solar PC
+![petsciirobots](https://github.com/user-attachments/assets/46a80365-acee-4233-92a9-c4d3026c0428)# Evertop: an ultra lower power, ultra long battery life solar PC
 
 <div align="center">
   <img width = "34.5%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/testdrive2-1.JPG">
@@ -267,10 +267,10 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
 
 ### Space Quest 3
 <div>
-  <img width = "25%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/spacequest3-1.JPG">
-  <img width = "25%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/spacequest3-2.JPG">
-  <img width = "25%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/spacequest3-3.JPG">
-  <img width = "25%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/spacequest3-4.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/spacequest3-1.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/spacequest3-2.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/spacequest3-3.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/spacequest3-4.JPG">
 </div>
 <br>
 
@@ -284,30 +284,29 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
 
 ### Test Drive
 <div>
-  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/testdrive1.JPG">
-  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/testdrive2-1.JPG">
-  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/testdrive2-2.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/testdrive2-2.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/testdrive1.JPG">
 </div>
 <br>
 
 ### Prince of Persia
 <div>
-  <img width = "50%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/princeofpersia1.JPG">
-  <img width = "50%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/princeofpersia2.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/princeofpersia1.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/princeofpersia2.JPG">
 </div>
 <br>
 
 ### SimCity
 <div>
-  <img width = "50%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/simcity1.JPG">
-  <img width = "50%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/simcity2.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/simcity1.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/simcity2.JPG">
 </div>
 <br>
 
-### SimCity
+### The Black Cauldron
 <div>
-  <img width = "50%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/blackcauldron1.JPG">
-  <img width = "50%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/blackcauldron2.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/blackcauldron1.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/blackcauldron2.JPG">
 </div>
 <br>
 
@@ -321,20 +320,55 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
 
 ### Commander Keen: Goodbye Galaxy!
 <div>
-  <img width = "50%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/keengalaxy1.JPG">
-  <img width = "50%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/keengalaxy2.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/keengalaxy1.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/keengalaxy2.JPG">
 </div>
 <br>
 
 ### King's Quest 1
 <div>
-  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/kingsquest1-1.JPG">
-  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/kingsquest1-2.JPG">
-  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/kingsquest1-3.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/kingsquest1-1.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/kingsquest1-2.JPG">
+</div>
+<br>
+
+### King's Quest 4
+<div>
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/kingsquest4-1.JPG">
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/kingsquest4-2.JPG">
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/kingsquest4-3.JPG">
 </div>
 <br>
 
 
+### Attack of the Petscii Robots
+<div>
+  <img width = "100%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/petsciirobots.JPG">
+</div>
+<br>
+
+### Planet X3
+<div>
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/planetX3-1.JPG">
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/planetX3-2.JPG">
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/planetX3-3.JPG">
+</div>
+<br>
+
+### Police Quest 1
+<div>
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/policequest1-1.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/policequest1-2.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/policequest1-3.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/policequest1-4.JPG">
+</div>
+<br>
+
+### Windows Solitaire
+<div>
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/windowssolitaire.JPG">
+</div>
+<br>
 
 
 
