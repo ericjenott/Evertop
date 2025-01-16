@@ -640,8 +640,29 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
 </div>  
 <br>
 
+### Evertop Min - The same system, but minimized
+<div>
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/spacequest3.JPG">
+  <img width = "39%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/excel.JPG">
+  <img width = "27%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/smallkbd1.JPG">
+</div>  
+<div>
+  <img width = "27%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/smallkbd2.JPG">
+  <img width = "28%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/dieboldkbd.JPG">
+  <img width = "44%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/fullkeyboard&mouse1.JPG">
+</div>  
+<div>
+  <img width = "29%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/rightside1.JPG">
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/leftside2.JPG">
+  <img width = "37%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/frontside2.JPG">
+</div>  
+<div>
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/connected_devices1.JPG">
+  <img width = "31.5%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/connected_devices4.JPG">
+  <img width = "26%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/with_max2.jpg">
+</div>  
 
-
+<br>
 
 
 
