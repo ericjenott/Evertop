@@ -9,7 +9,6 @@
   <img width = "21%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/keyboard_detached2.JPG">
   <img width = "30%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/opendevice3.JPG">
 </div>
-
 <br>
 
 
@@ -20,17 +19,18 @@ Evertop is a portable PC that emulates an IBM XT with an 80186 processor and 1MB
 
 ### Loaded with built-in peripherals
 It features a built in keyboard, external PS/2 keyboard and mouse ports, full CGA, Hercules, and MCGA graphics support, partial EGA and VGA support, PC speaker, Adlib, Covox, and Disney Sound Source audio output, built in speaker and headphone jack with volume control wheel, one DB9 RS232 serial port, one TTL serial port, dual keyboard and mouse PS/2 ports, USB flash drive port for convenient file transfer, an RJ45 ethernet port, wifi, and LoRA radio (I wrote a LoRA realtime chat client in QBASIC in about 15 minutes).  Bluetooth hardware is present but I have not yet implemented it in any features, though I plan to add support for BT keyboard and mouse, and maybe serial over BT, IP over BT, audio over BT, and BT file transfer.  The keyboard can be easily detached on a short tether to make it convenient to prop up the device at an angle while placing the keyboard on a flat surface.  Or you can just plug in your own to the PS/2 port, as sometimes it's nice to be able to use a full sized keyboard, though the one I built into this device is big enough for normal typing.
-
 <br>
 
 ### Charging options for every scenario
 There are three ways you can power and charge this compputer: 1.) built in detachable solar panel, 2.) 2.5 - 20V DC input via an internal buck/boost circuit, or 3.) micro USB connector.  It can charge from all three sources simultaneously, and of course charge in every way while in use.  I also added a built in voltmeter to facilitate easy battery level and charge voltage monitoring.
-
 <br>
 
 ### Hundreds to thousands of hours on a single charge
-In power saving mode it can run between 200 hours on the low side and 500 hours or in some cases even much longer of constant interactive use, <b><i>not</i></b> standby.  That should afford ample opportunity to find some sunny weather and recharge the batteries long before they start getting low.  I'm also going to port over a simple native (non-emulated) text editor / word processor and e-reader that I made several years ago for a similar pocket device.  I'm hoping I can get over 1000 hours of constant use on a single charge with those, maybe even 5000-10000 hours on the e-reader app.  Evertop also features optional user initiated or automatic hibernate to disk and automatic total power shutoff via an IO controlled dual MOSFET circuit, so you can set it to hibernate and it will completely shut off power when idle, then when you powre back on you can resume right where yo left off.  Internal peripherals can be shut off when not in use via physical switches on the front panel to ensure no power is being wasted. I've been using a 256G SD card to store floppy and hard disk images, larger cards might work but I haven't tested one yet.  Hard drive images can be up to 4G each.  Emulated systems can mount two floppies and two hard drives for a total of 8G per emulated system.  You can set up multiple emulated systems and choose which one to boot at startup, or just default to the previous choice.
+In power saving mode it can run between 200 hours on the low side and 500 hours or in some cases even much longer of constant interactive use, <b><i>not</i></b> standby.  That should afford ample opportunity to find some sunny weather and recharge the batteries long before they start getting low.  I'm also going to port over a simple native (non-emulated) text editor / word processor and e-reader that I made several years ago for a similar pocket device.  I'm hoping I can get over 1000 hours of constant use on a single charge with those, maybe even 5000-10000 hours on the e-reader app.  Evertop also features optional user initiated or automatic hibernate to disk and automatic total power shutoff via an IO controlled dual MOSFET circuit, so you can set it to hibernate and it will completely shut off power when idle, then when you powre back on you can resume right where yo left off.  Internal peripherals can be shut off when not in use via physical switches on the front panel to ensure no power is being wasted.  The solar panel is rated at 6V and 6W, so theoretically it should be able to produce 1 amp with full sunlight.  The most I've ever seen it do is 700mA, but even that's enough to provide ten to fifty hours of constant use from each hour of sunlight.  And even on the dimmest cloudy days it still gets around 70-100mA, which at least gives can give one to five hours of use per hour of charge.
+<br>
 
+### Storage
+I've been using a 256G SD card to store floppy and hard disk images, larger cards might work but I haven't tested one yet.  Hard drive images can be up to 4G each.  Emulated systems can mount two floppies and two hard drives for a total of 8G per emulated system.  You can set up multiple emulated systems and choose which one to boot at startup, or just default to the previous choice.
 <br>
 
 ### Technology
@@ -497,7 +497,7 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
 #### Using a USB flash drive
 <div>
   <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/system/usb_flash_driver.JPG">
-  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/system/usb_flash_dir.JPG">
+  <img width = "48%" src="https://github.com/ericjenott/Evertop/blob/main/images/system/usb_flash_dir.JPG">
 </div>
 <br>
 
@@ -514,13 +514,13 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
 
 #### Transferring a file between Evertop and Book 8088 via RS232 serial connection with Procomm Plus
 <div>
-  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/system/serial_xfer1.JPG">
+  <img width = "47%" src="https://github.com/ericjenott/Evertop/blob/main/images/system/serial_xfer1.JPG">
   <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/system/serial_xfer2.JPG">
 </div>
 <br>
 <br>
 
-### Minix
+### Minix and its C compiler
 <div>
   <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/minix/minixboot.JPG">
   <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/minix/minix_c_compiler.JPG">
@@ -547,6 +547,12 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
 </div>
 <br>
 
+#### Rear side showing solar panel hinge
+<div>
+  <img width = "100%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/rearedge_back.JPG">
+</div>
+<br>
+
 #### Standing up
 <div>
   <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/standing_angle1.JPG">
@@ -555,7 +561,7 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
 </div>
 <div>
   <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/standing_leftside1.JPG">
-  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_stand1.JPG">
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/standing_rightside1.JPG">
   <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/standing_rightside3.JPG">
 </div>
 <br>
@@ -566,9 +572,73 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
   <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/unfolded_front.JPG">
   <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/unfolded_back.JPG">
 </div>
-
 <br>
-  
+
+#### Volt meter
+<div>
+  <img width = "60%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/voltmeter1.JPG">
+</div>
+<br>
+
+#### Variable voltage charging: 3V, 9V, 13V, 19V
+<div>
+  <img width = "24%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/3v_charging1.JPG">
+  <img width = "24%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/9v_charging1.JPG">
+  <img width = "24%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/13v_charging1.JPG">
+  <img width = "24%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/19v_charging1.JPG">
+</div>  
+<br>
+
+#### Keyboard removed and keyboard cord storage
+<div>
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/keyboard_detached1.JPG">
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/keyboard_detached2.JPG">
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/keyboard_detached3.JPG">
+</div>  
+<div>
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/keyboard_cord_storage1.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/keyboard_cord_storage2.JPG">
+</div>  
+<br>
+
+#### Hacker friendly motherboard access
+<div>
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/cpucover.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/cpucover_opened.JPG">
+</div>  
+<div>
+  <img width = "70%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/cpu.JPG">
+</div>  
+<br>
+
+#### Variable voltage charging: 3V, 9V, 13V, 19V
+<div>
+  <img width = "24%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/3v_charging1.JPG">
+  <img width = "24%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/9v_charging1.JPG">
+  <img width = "24%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/13v_charging1.JPG">
+  <img width = "24%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/19v_charging1.JPG">
+</div>  
+<br>
+
+#### Current test points measurment in normal and power saving modes 
+<div>
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/current1.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/power_saving_current.JPG">
+</div>  
+<br>
+
+#### Solar panel and removal
+<div>
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_panel.JPG">
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_cord1.JPG">
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_cord2.JPG">
+</div>  
+<div>
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_plug_attached.JPG">
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_plug_detached.JPG">
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_panel_detached1.JPG">
+</div> 
+<br>
 
 
 
