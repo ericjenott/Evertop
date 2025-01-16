@@ -626,6 +626,20 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
 <br>
 
 
+#### Using external keyboard and mouse 
+<div>
+  <img width = "70.25%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/extern_kbd_mouse5.JPG">
+  <img width = "27.75%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/extern_kbd_mouse_rightside.JPG">
+</div>  
+<br>
+
+#### All together and all apart: side by side comparison
+<div>
+  <img width = "49.5%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/testdrive2-1.JPG">
+  <img width = "48.5%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/opendevice3.JPG">
+</div>  
+<br>
+
 
 
 
