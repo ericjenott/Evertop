@@ -34,7 +34,7 @@ In power saving mode it can run between 200 hours on the low side and 500 hours 
 <br>
 
 ### Technology
-Under the hood it's powered by an Espressif ESP32 microcontroller.  The display is a 5.83 inch 648x480 (yes, 648 with the 8) "fast refresh" model from good-display.com which uses no power when not refreshing.  I started out using Fabrizio Di Vittorio's amazing and excellent PCEmulator demo for his FabGL library and have been adding, cutting, changing, fixing, and generally tampering for two years to turn this into what it is today.
+Under the hood it's powered by an Espressif ESP32 microcontroller.  The display is a 5.83 inch 648x480 (yes, 648 with the 8) "fast refresh" model from good-display.com which uses no power when not refreshing.  I started out using Fabrizio Di Vittorio's amazing and excellent PCEmulator demo for his FabGL library and have been adding, cutting, changing, fixing, and generally tampering for two years to turn this into what it is today.  Enclosure is 3d printed matte PETG plastic.
 
 <br>
 
@@ -47,9 +47,9 @@ Runs almost all IBM PC/XT compatible DOS software from the 1980s and early 90s.
 For this version, I removed the built-in keyboard, variable voltage charging, solar panel, RJ45 ethernet, DB9 serial port, LoRA radio, volt meter and half the battery capacity to reduce weight, material, and costs of parts and assembly.  It still has the same e-ink display, dual keyboard/mouse PS/2 ports, built in speaker, headphone jack, volume control wheel, USB flash drive port, wifi networking, bluetooth, TTL serial port, sd card slot, and micro USB charging port.  And it runs the same firmware as its larger sibling.  Add your own PS/2 keyboard and an external solar panel and you're still good to go for basic long lasting off grid computing without the weight, bulk, and expensive of all those wonderful bells and whistles.
 
 <div align="center">
-  <img width = "19%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/smallkbd2.JPG">
-  <img width = "24%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/connected_devices4.JPG">
-  <img width = "26.4%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/excel.JPG">
+  <img width = "26.5%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/smallkbd2.JPG">
+  <img width = "34%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/connected_devices4.JPG">
+  <img width = "37%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/excel.JPG">
 </div>
 <div align="center">
   <img width = "38.5%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/rightside2.JPG">
