@@ -249,7 +249,7 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
 </div>
 <br>
 
-### Monkey Island
+#### Monkey Island
 <div>
   <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/monkeyisland1.JPG">
   <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/monkeyisland2.JPG">
@@ -257,7 +257,7 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
 </div>
 <br>
 
-### Space Quest 1
+#### Space Quest 1
 <div>
   <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/spacequest1-1.JPG">
   <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/spacequest1-2.JPG">
@@ -265,7 +265,7 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
 </div>
 <br>
 
-### Space Quest 3
+#### Space Quest 3
 <div>
   <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/spacequest3-1.JPG">
   <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/spacequest3-2.JPG">
@@ -274,7 +274,7 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
 </div>
 <br>
 
-### Wolfenstein 3D
+#### Wolfenstein 3D
 <div>
   <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/wolf3d1.JPG">
   <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/wolf3d2.JPG">
@@ -282,35 +282,35 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
 </div>
 <br>
 
-### Test Drive
+#### Test Drive
 <div>
   <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/testdrive2-2.JPG">
   <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/testdrive1.JPG">
 </div>
 <br>
 
-### Prince of Persia
+#### Prince of Persia
 <div>
   <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/princeofpersia1.JPG">
   <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/princeofpersia2.JPG">
 </div>
 <br>
 
-### SimCity
+#### SimCity
 <div>
   <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/simcity1.JPG">
   <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/simcity2.JPG">
 </div>
 <br>
 
-### The Black Cauldron
+#### The Black Cauldron
 <div>
   <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/blackcauldron1.JPG">
   <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/blackcauldron2.JPG">
 </div>
 <br>
 
-### Commander Keen: Keen Dreams
+#### Commander Keen: Keen Dreams
 <div>
   <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/keendreams1.JPG">
   <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/keendreams2.JPG">
@@ -318,21 +318,21 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
 </div>
 <br>
 
-### Commander Keen: Goodbye Galaxy!
+#### Commander Keen: Goodbye Galaxy!
 <div>
   <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/keengalaxy1.JPG">
   <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/keengalaxy2.JPG">
 </div>
 <br>
 
-### King's Quest 1
+#### King's Quest 1
 <div>
   <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/kingsquest1-1.JPG">
   <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/kingsquest1-2.JPG">
 </div>
 <br>
 
-### King's Quest 4
+#### King's Quest 4
 <div>
   <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/kingsquest4-1.JPG">
   <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/kingsquest4-2.JPG">
@@ -341,13 +341,13 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
 <br>
 
 
-### Attack of the Petscii Robots
+#### Attack of the Petscii Robots
 <div>
   <img width = "100%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/petsciirobots.JPG">
 </div>
 <br>
 
-### Planet X3
+#### Planet X3
 <div>
   <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/planetX3-1.JPG">
   <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/planetX3-2.JPG">
@@ -355,7 +355,7 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
 </div>
 <br>
 
-### Police Quest 1
+#### Police Quest 1
 <div>
   <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/policequest1-1.JPG">
   <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/policequest1-2.JPG">
@@ -364,11 +364,62 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
 </div>
 <br>
 
-### Windows Solitaire
+#### Windows Solitaire
 <div>
   <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/windowssolitaire.JPG">
 </div>
 <br>
+<br>
+
+### Applications
+#### Word for Windows
+<div>
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/apps/winword1.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/apps/winword2.JPG">
+</div>
+<br>
+
+#### Excel
+<div>
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/apps/excel1.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/apps/excel2.JPG">
+</div>
+<br>
+
+#### Word 5.5
+<div>
+  <img width = "100%" src="https://github.com/ericjenott/Evertop/blob/main/images/apps/word5_5.JPG">
+</div>
+<br>
+
+#### Wordstar 7
+<div>
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/apps/wordstar1.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/apps/wordstar2.JPG">
+</div>
+<br>
+
+#### MS Works
+<div>
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/apps/msworks1.JPG">
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/apps/msworks2.JPG">
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/apps/msworks3.JPG">
+</div>
+<br>
+
+#### Scandisk
+<div>
+  <img width = "100%" src="https://github.com/ericjenott/Evertop/blob/main/images/apps/scandisk.JPG">
+</div>
+<br>
+
+#### Adlib Jukebox
+<div>
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/apps/adlib_jukebox1.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/apps/adlib_jukebox2.JPG">
+</div>
+<br>
+
 
 
 
