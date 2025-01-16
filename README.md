@@ -518,7 +518,57 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
   <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/system/serial_xfer2.JPG">
 </div>
 <br>
+<br>
 
+### Minix
+<div>
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/minix/minixboot.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/minix/minix_c_compiler.JPG">
+</div>
+<br>
+<br>
+
+### Exterior Views
+#### Right side showing earphone jack, USB flash drive, micro USB, PS/2, and DB9 RS232 serial ports
+<div>
+  <img width = "100%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/rightside.JPG">
+</div>
+<br>
+
+#### Left side showing ethernet, variable voltage input, and TTL serial ports
+<div>
+  <img width = "100%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/ethernet&charger2.JPG">
+</div>
+<br>
+
+#### SD card slot
+<div>
+  <img width = "100%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/sdcardslot1.JPG">
+</div>
+<br>
+
+#### Standing up
+<div>
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/standing_angle1.JPG">
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_stand1.JPG">
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/standing_rightside2.JPG">
+</div>
+<div>
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/standing_leftside1.JPG">
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_stand1.JPG">
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/standing_rightside3.JPG">
+</div>
+<br>
+
+
+#### Unfolded
+<div>
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/unfolded_front.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/unfolded_back.JPG">
+</div>
+
+<br>
+  
 
 
 
