@@ -343,7 +343,7 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
 
 #### Attack of the Petscii Robots
 <div>
-  <img width = "100%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/petsciirobots.JPG">
+  <img width = "60%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/petsciirobots.JPG">
 </div>
 <br>
 
@@ -388,7 +388,7 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
 
 #### Word 5.5
 <div>
-  <img width = "100%" src="https://github.com/ericjenott/Evertop/blob/main/images/apps/word5_5.JPG">
+  <img width = "60%" src="https://github.com/ericjenott/Evertop/blob/main/images/apps/word5_5.JPG">
 </div>
 <br>
 
@@ -409,7 +409,7 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
 
 #### Scandisk
 <div>
-  <img width = "100%" src="https://github.com/ericjenott/Evertop/blob/main/images/apps/scandisk.JPG">
+  <img width = "60%" src="https://github.com/ericjenott/Evertop/blob/main/images/apps/scandisk.JPG">
 </div>
 <br>
 
@@ -439,7 +439,7 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
 
 #### NE2000 driver -- DHCP client -- ping
 <div>
-  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/network/NET2000.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/network/NE2000.JPG">
   <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/network/DHCP.JPG">
 </div>
 <div>
@@ -467,6 +467,60 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
   <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/network/telnet2.JPG">
 </div>
 <br>
+<br>
+
+### System
+#### Startup Screen
+<div>
+  <img width = "60%" src="https://github.com/ericjenott/Evertop/blob/main/images/system/startup_screen.JPG">
+</div>
+<br>
+
+#### Machine Selection
+<div>
+  <img width = "60%" src="https://github.com/ericjenott/Evertop/blob/main/images/system/machine_selection.JPG">
+</div>
+<br>
+
+#### Popup Menu: you can open it any time with a hotkey
+<div>
+  <img width = "60%" src="https://github.com/ericjenott/Evertop/blob/main/images/system/pop_menu.JPG">
+</div>
+<br>
+
+#### Audio Settings
+<div>
+  <img width = "60%" src="https://github.com/ericjenott/Evertop/blob/main/images/system/audio_settings.JPG">
+</div>
+<br>
+
+#### Using a USB flash drive
+<div>
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/system/usb_flash_driver.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/system/usb_flash_dir.JPG">
+</div>
+<br>
+
+#### Hibernate and resume
+<div>
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/system/hibernated.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/system/unhibernating1.JPG">
+</div>
+<div>
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/system/unhibernating2.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/system/unhibernated.JPG">
+</div>
+<br>
+
+#### Transferring a file between Evertop and Book 8088 via RS232 serial connection with Procomm Plus
+<div>
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/system/serial_xfer1.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/system/serial_xfer2.JPG">
+</div>
+<br>
+
+
+
 
 
 
