@@ -621,10 +621,8 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
 <div>
   <img width = "14.5%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_plug_attached.JPG">
   <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_plug_detached.JPG">
-
-  <img width = "30%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_panel_detached1.JPG">
+  <img width = "43%" src="https://github.com/ericjenott/Evertop/blob/main/images/exterior/solar_panel_detached1.JPG">
 </div> 
-  
 <br>
 
 
