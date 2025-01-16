@@ -1,4 +1,4 @@
-# Evertop: an ultra lower power, ultra long battery life solar PC
+# Evertop: an ultra lower power, ultra long battery solar PC
 
 <div align="center">
   <img width = "34.5%" src="https://github.com/ericjenott/Evertop/blob/main/images/games/testdrive2-1.JPG">
