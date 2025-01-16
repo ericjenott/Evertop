@@ -419,6 +419,56 @@ https://github.com/user-attachments/assets/d3a6b4d2-5469-4d94-b6e4-5f47aeae23ec
   <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/apps/adlib_jukebox2.JPG">
 </div>
 <br>
+<br>
+
+### Networking
+#### Wifi Setup
+<div>
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/network/settingWifi1.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/network/settingWifi2.JPG">
+</div>
+<div>
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/network/settingWifi3.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/network/settingWifi4.JPG">
+</div>
+<div>
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/network/settingWifi5.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/network/settingWifi6.JPG">
+</div>
+<br>
+
+#### NE2000 driver -- DHCP client -- ping
+<div>
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/network/NET2000.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/network/DHCP.JPG">
+</div>
+<div>
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/network/ping1.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/network/ping2.JPG">
+</div>
+<br>
+
+#### Web browsing
+<div>
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/network/webbrowser1.JPG">
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/network/webbrowser2.JPG">
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/network/webbrowser3.JPG">
+</div>
+<br>
+
+#### FTP and telnet
+<div>
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/network/ftp1.JPG">
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/network/ftp2.JPG">
+  <img width = "33%" src="https://github.com/ericjenott/Evertop/blob/main/images/network/ftp3.JPG">
+</div>
+<div>
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/network/telnet1.JPG">
+  <img width = "49%" src="https://github.com/ericjenott/Evertop/blob/main/images/network/telnet2.JPG">
+</div>
+<br>
+
+
 
 
 
