@@ -44,7 +44,7 @@ Runs almost all IBM PC/XT compatible DOS software from the 1980s and early 90s.
 <br>
 
 ## New minimal version: "Evertop Min" 
-For this version, I removed the built-in keyboard, variable voltage charging, solar panel, RJ45 ethernet, DB9 serial port, LoRA radio, volt meter and half the battery capacity to reduce weight, material, and costs of parts and assembly.  It still has the same e-ink display, dual keyboard/mouse PS/2 ports, built in speaker, headphone jack, volume control wheel, USB flash drive port, wifi networking, bluetooth, TTL serial port, sd card slot, and micro USB charging port.  And it runs the same firmware as its larger sibling.  Add your own PS/2 keyboard and an external solar panel and you're still good to go for basic long lasting off grid computing without the weight, bulk, and expensive of all those wonderful bells and whistles.
+For this version, I removed the built-in keyboard, variable voltage charging, solar panel, RJ45 ethernet, DB9 serial port, LoRA radio, volt meter and half the battery capacity to reduce weight, material, and costs of parts and assembly.  It still has the same e-ink display, dual keyboard/mouse PS/2 ports, built in speaker, headphone jack, volume control wheel, USB flash drive port, wifi networking, bluetooth, TTL serial port, sd card slot, and micro USB charging port.  And it runs the same firmware as its larger sibling.  Add your own PS/2 keyboard and an external solar panel and you're still good to go for basic long lasting off grid computing without the weight, bulk, and expense of all those wonderful bells and whistles.
 
 <div align="center">
   <img width = "26.5%" src="https://github.com/ericjenott/Evertop/blob/main/images/min/smallkbd2.JPG">
