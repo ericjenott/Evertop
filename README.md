@@ -35,12 +35,10 @@ I've been using a 256G SD card to store floppy and hard disk images, larger card
 
 ### Technology
 Under the hood it's powered by an Espressif ESP32 microcontroller.  The display is a 5.83 inch 648x480 (yes, 648 with the 8) "fast refresh" model from good-display.com which uses no power when not refreshing.  I started out using Fabrizio Di Vittorio's amazing and excellent PCEmulator demo for his FabGL library and have been adding, cutting, changing, fixing, and generally tampering for two years to turn this into what it is today.  Enclosure is 3d printed matte PETG plastic.
-
 <br>
 
 ### Compatibility
 Runs almost all IBM PC/XT compatible DOS software from the 1980s and early 90s.
-
 <br>
 
 ## New minimal version: "Evertop Min" 
